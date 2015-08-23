@@ -1,2 +1,3 @@
 # flame-lang
-FlameLang
+
+FlameLang will be an interactive theorem prover.
